@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data_hmj.db
+pdf_text.txt
+*.log
+.streamlit/secrets.toml
